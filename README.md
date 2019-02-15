@@ -1,7 +1,7 @@
 # ZeroTwo
 
-*git
-*gud
-*kiddo
+* git
+* gud
+* kiddo
 
 ## Lmao
