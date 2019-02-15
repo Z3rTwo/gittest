@@ -1,1 +1,7 @@
-# gittest
+# ZeroTwo
+
+*git
+*gud
+*kiddo
+
+## Lmao
