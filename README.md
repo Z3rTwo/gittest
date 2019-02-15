@@ -14,3 +14,5 @@
 * git add filnamn
 * git commit -m "Meddelande*
 * git push
+
+![Image](grub.jpeg)
